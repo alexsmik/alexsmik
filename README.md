@@ -5,6 +5,11 @@
 
 💬 Ask me about ...
 <!--
+Graphic design
+Frontend
+Backend
+link on site alexsmik.github.io
+
 **alexsmik/alexsmik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
