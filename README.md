@@ -1,11 +1,18 @@
 ### Hi there 👋
 📫 How to reach me:
+
 alexsmik.github.io
+
 💬 Ask me about ...
+
 Full-Stack Development: 
+
 JavaScript (ES5/ES6), PHP
+
 HTML, CSS, Sass
+
 React, Express, Bootstrap
+
 NodeJS, SQL, NoSql
 <!--
 Graphic design
