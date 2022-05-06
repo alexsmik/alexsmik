@@ -1,5 +1,5 @@
 ### Hi there 👋
-📫 How to reach me: [a link](alexsmik.github.io)
+📫 How to reach me: [website](https://alexsmik.github.io)
 
 💬 Ask me about ... Full-Stack Development: 
 
