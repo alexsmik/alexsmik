@@ -1,11 +1,7 @@
 ### Hi there 👋
-📫 How to reach me:
+📫 How to reach me: [a link](alexsmik.github.io)
 
-alexsmik.github.io
-
-💬 Ask me about ...
-
-Full-Stack Development: 
+💬 Ask me about ... Full-Stack Development: 
 
 JavaScript (ES5/ES6), PHP
 
