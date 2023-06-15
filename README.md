@@ -4,7 +4,9 @@
 💬 Ask me about ... Full-Stack Development: 
 
 JavaScript (ES5/ES6), PHP
+
 React, CSS, Bootstrap
+
 NodeJS, Express, SQL, NoSql
 <!--
 Graphic design
